@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.h1 {
+    text-align: center;
+    color: #6a11cb;
+    display: block;
+    margin: 10px 0;
+    padding: 12px 15px;
+    border: 2px solid transparent;
+    border-radius: 10px;
+}
+
+.input {
+    background: white;
+    padding: 30px 25px;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    width: 100%;
+    max-width: 400px;
+    animation: fadeInUp 1s ease;
+}
+.email {
+    display: block;
+    margin: 10px 0;
+    padding: 12px 15px;
+    border: 2px transparent;
+    border-radius: 10px;
+    font-size: 15px;
+    border-color: #6a11cb;
+    outline: none;
+}
+
+
+.password {
+   display: block;
+    margin: 10px 0;
+    padding: 12px 15px;
+    border: 2px transparent;
+    border-radius: 10px;
+    font-size: 15px;
+    border-color: #6a11cb;
+    outline: none;
+}
+
+.submit {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(45deg,#6a11cb,#2575fc);
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+hr {
+    width: 200px;
+    margin-top: -5px;
+    display: block;
+    margin: 10px;
+}
+
+.p {
+    display: flex;
+    margin: -10px 0;
+    padding: 12px 15px;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    background: var(--bg-light);
+    font-size: 15px;
+}
+
+a {
+    margin: 9px 20;
+    margin-left: -5px;
+    margin-top: -13px;
+    padding: 12px 15px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.a{
+    margin: 10px 0;
+    padding: 12px 15px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+.p1{
+    text-align: center;
+    display: flex;
+    margin-left: 25px;
+    padding: 12px 15px;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    background: var(--bg-light);
+    font-size: 15px;
+}

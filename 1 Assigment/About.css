@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Playfair+Display:wght@700&display=swap');
+
+body {
+    background: linear-gradient(135deg, #1a2980, #26d0ce);
+    padding: 9rem;
+    font-family: 'Inter', sans-serif;
+    color: #333333;
+}
+
+.h1 {
+    color: #000000;
+    text-align: center;
+}
+
+.p {
+    text-align: center;
+}
+.back{
+    border-radius: 8px;
+    padding: 0.2rem;
+    margin-left: 510px;
+    text-decoration: none;
+    color: #1a2980;
+}

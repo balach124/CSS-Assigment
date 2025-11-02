@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Playfair+Display:wght@700&display=swap');
+
+body {
+    background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    color: #333333;
+}
+
+.Main-Heading {
+    font-family: "Playfair", serif;
+    font-size: 6rem;
+    color: #000000;
+    margin-bottom: 1rem;
+    text-align: center;
+    margin-top: 200px;
+}
+
+#P1 {
+    font-family: "Roboto", sans-serif;
+    font-size: 1.5rem;
+    max-width: 600px;
+    margin: 0 auto 2rem;
+    line-height: 1.6;
+    text-align: center;
+}
+
+.View {
+    background-color: #000000;
+    color: #FFFFFF;
+    border: none;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    border-radius: 8px;
+    margin: 600px;
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    gap: 50px;
+    margin-left: 850px;
+    margin-top: -420px;
+}
+
+.about {
+    text-decoration: none;
+    color: #000000;
+}
+
+.project {
+    text-decoration: none;
+    color: #000000;
+}
+
+.services {
+    text-decoration: none;
+    color: #000000;
+}
+
+.contact {
+    text-decoration: none;
+    color: #000000;
+}
