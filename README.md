@@ -29,13 +29,13 @@ These assignments help me:
 
 | # | Assignment Name | Link |
 |---|------------------|------|
-| 1️⃣ | Assigment-1 | [View Code](https://registration-f0rm-student.netlify.app/) |
-| 2️⃣ | Assigment-2 | [View Code](https://precious-macaron-3ba1fe.netlify.app/) |
-| 3️⃣ | Assigment-3 | [View Code](https://1ogin-page.netlify.app/) |
-| 4️⃣ | Assigment-4 | [View Code](https://amazon-responsive-cl0ne.netlify.app/) |
-| 5️⃣ | Assigment-5 | [View Code](https://olpers.netlify.app/) |
-| 6️⃣ | Assigment-6 | [View Code](https://saylani-welfares.netlify.app/) |
-| 7️⃣ | Assigment-7 | [View Code](https://faceb0ok-dashb0ard.netlify.app/) |
+| 1️⃣ | Assigment-1 | [View](https://registration-f0rm-student.netlify.app/) |
+| 2️⃣ | Assigment-2 | [View](https://precious-macaron-3ba1fe.netlify.app/) |
+| 3️⃣ | Assigment-3 | [View](https://1ogin-page.netlify.app/) |
+| 4️⃣ | Assigment-4 | [View](https://amazon-responsive-cl0ne.netlify.app/) |
+| 5️⃣ | Assigment-5 | [View](https://olpers.netlify.app/) |
+| 6️⃣ | Assigment-6 | [View](https://saylani-welfares.netlify.app/) |
+| 7️⃣ | Assigment-7 | [View](https://faceb0ok-dashb0ard.netlify.app/) |
 
 
 ---
